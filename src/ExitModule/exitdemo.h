@@ -11,7 +11,7 @@
 #ifndef EXITDEMO_H
 #define EXITDEMO_H
 
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_exitdemo.h"
 
 class ExitDemo : public QDialog

@@ -12,10 +12,10 @@
 #ifndef CALARMINHANDLETYPE_H
 #define CALARMINHANDLETYPE_H
 
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_calarminhandletype.h"
 #include "DemoPublic.h"
-#include <QtGui/QLineEdit>
+#include <QLineEdit>
 
 class CAlarmInHandleType : public QDialog
 {

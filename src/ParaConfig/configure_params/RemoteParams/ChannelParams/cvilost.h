@@ -1,9 +1,9 @@
 #ifndef CVILOST_H
 #define CVILOST_H
 
-#include <QtGui/QDialog>
-#include <QtGui/QLineEdit>
-#include <QtGui/QCheckBox>
+#include <QDialog>
+#include <QLineEdit>
+#include <QCheckBox>
 #include "DemoPublic.h"
 #include "ui_cvilost.h"
 

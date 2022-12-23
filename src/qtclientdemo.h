@@ -13,7 +13,7 @@
 #define QTCLIENTDEMO_H
 
 //qt module header files
-#include <QtGui/QMainWindow>
+#include <QMainWindow>
 #include "ui_qtclientdemo.h"
 #include <QTimer>
 #include <QList>

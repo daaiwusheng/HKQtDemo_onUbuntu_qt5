@@ -1,10 +1,10 @@
 #ifndef CMOTION_H
 #define CMOTION_H
 
-#include <QtGui/QDialog>
-#include <QtGui/QCheckBox>
-#include <QtGui/QPushButton>
-#include <QtGui/QLineEdit>
+#include <QDialog>
+#include <QCheckBox>
+#include <QPushButton>
+#include <QLineEdit>
 #include "ui_cmotion.h"
 #include "DemoPublic.h"
 

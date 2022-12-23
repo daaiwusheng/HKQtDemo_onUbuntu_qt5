@@ -1,7 +1,7 @@
 #ifndef CCOMPRESSAUDIO_H
 #define CCOMPRESSAUDIO_H
 
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_ccompressaudio.h"
 
 class CCompressAudio : public QDialog

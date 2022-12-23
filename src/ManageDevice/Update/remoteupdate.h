@@ -12,7 +12,7 @@
 #define REMOTEUPDATE_H
 
 #include <qtimer.h>
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_remoteupdate.h"
 #include "DemoPublic.h"
 class RemoteUpdate : public QDialog

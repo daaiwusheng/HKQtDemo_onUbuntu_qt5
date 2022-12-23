@@ -13,10 +13,10 @@
 #ifndef CSHELTER_H
 #define CSHELTER_H
 
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_cshelter.h"
-#include <QtGui/QLineEdit>
-#include <QtGui/QCheckBox>
+#include <QLineEdit>
+#include <QCheckBox>
 #include "DemoPublic.h"
 
 class CShelter : public QDialog

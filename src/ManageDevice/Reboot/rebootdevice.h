@@ -11,7 +11,7 @@
 #ifndef REBOOTDEVICE_H
 #define REBOOTDEVICE_H
 
-#include <QtGui/QDialog>
+#include <QDialog>
 #include "ui_rebootdevice.h"
 #include "DemoPublic.h"
 

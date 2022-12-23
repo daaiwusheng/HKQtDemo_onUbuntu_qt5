@@ -29,9 +29,9 @@ int main(int argc, char *argv[])
 {
 	gqtclinetdemo = NULL;   
     QApplication a(argc, argv);
-	QTextCodec::setCodecForTr(QTextCodec::codecForName("GB2312"));
+//	QTextCodec::setCodecForTr(QTextCodec::codecForName("GB2312"));
     QTextCodec::setCodecForLocale(QTextCodec::codecForName("GB2312"));
-    QTextCodec::setCodecForCStrings(QTextCodec::codecForName("GB2312"));
+//    QTextCodec::setCodecForCStrings(QTextCodec::codecForName("GB2312"));
 
     //Add translation file.
     QTranslator translator;

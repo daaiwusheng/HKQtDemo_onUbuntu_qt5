@@ -11,7 +11,7 @@
 #ifndef REALPLAY_H
 #define REALPLAY_H
 
-#include <QtGui/QWidget>
+#include <QWidget>
 #include <QModelIndex>
 #include "ui_realplay.h"
 #include <QFrame>
@@ -26,7 +26,7 @@
 #include "common.h"
 #include "logtable.h"
 #include "treemodel.h"
-#include "realplay.h"
+//#include "realplay.h"
 #include "FramePlayWnd.h"
 
 //以后通过参数配置模块对实时录像存储路径进行设置，这里作为默认
